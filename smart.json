@@ -1,0 +1,11 @@
+{
+  "name": "cucumber-protractor",
+  "description": "Protractor support for CucumberJS",
+  "homepage": "https://github.com/xdissent/meteor-cucumber-protractor",
+  "author": "Greg Thornton <xdissent@me.com> (http://xdissent.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/xdissent/meteor-cucumber-protractor.git",
+  "packages": {
+    "cucumber-selenium": "0.0.1"
+  }
+}
